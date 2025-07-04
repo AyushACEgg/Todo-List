@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "132150881340",
+    "firebase_url": "https://educationdummy-6c019-default-rtdb.firebaseio.com",
+    "project_id": "educationdummy-6c019",
+    "storage_bucket": "educationdummy-6c019.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132150881340:android:c173d90dcf92bdd213e739",
+        "android_client_info": {
+          "package_name": "com.exam.tym"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132150881340-p94l3und9ndcjbaavg7nl7anbguq2mt0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhCOSin5HMdJBe1lxpyZmOT9TM9b5c_zI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132150881340-p94l3und9ndcjbaavg7nl7anbguq2mt0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "132150881340-ivtlfj4lvacsn4muue4g8t6ha8vvqjcc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flowbee"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132150881340:android:cdfb1441eb65df2e13e739",
+        "android_client_info": {
+          "package_name": "com.example.flow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132150881340-p94l3und9ndcjbaavg7nl7anbguq2mt0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhCOSin5HMdJBe1lxpyZmOT9TM9b5c_zI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132150881340-p94l3und9ndcjbaavg7nl7anbguq2mt0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "132150881340-ivtlfj4lvacsn4muue4g8t6ha8vvqjcc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flowbee"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132150881340:android:980733fd8f60a32213e739",
+        "android_client_info": {
+          "package_name": "com.example.flowbee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132150881340-p94l3und9ndcjbaavg7nl7anbguq2mt0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhCOSin5HMdJBe1lxpyZmOT9TM9b5c_zI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132150881340-p94l3und9ndcjbaavg7nl7anbguq2mt0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "132150881340-ivtlfj4lvacsn4muue4g8t6ha8vvqjcc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flowbee"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
